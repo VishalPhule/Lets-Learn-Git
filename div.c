@@ -10,6 +10,8 @@ int main()
     div = a / b;
 
     printf("Mul : %d", div);
+    printf("Hello ");
+
    
     return (0);
 }
